@@ -1,5 +1,5 @@
-## Hi there 👋
-# This is a Fortnite server for 12.41
+# Hi there 👋
+## This is a Fortnite server for 12.41
 <!--
 
 **Here are some ideas to get you started:**
